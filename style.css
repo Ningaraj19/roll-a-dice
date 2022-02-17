@@ -23,7 +23,6 @@
   }
   
   body {
-    background: linear-gradient(90deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8);
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxIuDc9FmySyMt-tDB7jdRQTtjr_YhcGua2A&usqp=CAU);
     background-size: 450%;
     transition: opacity .3s ease-in-out;
